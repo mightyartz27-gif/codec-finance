@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.aziz.codecfinance",
+        "sha256_cert_fingerprints": ["A1:62:CF:F9:15:07:F2:10:17:15:0B:64:62:60:8A:25:99:C8:F7:FF:C7:B6:E2:03:AF:A1:60:4C:DD:D5:86:DA"]
+      }
+    }]
